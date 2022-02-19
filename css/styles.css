@@ -1,0 +1,26 @@
+body{
+  background-color: #FEFBF3;
+  color: #79B4B7;
+  font-size: 18px;
+}
+
+hr{
+  background-color: #FEFBF3;
+  color: #79B4B7;
+  border:10px;
+  border-style: dotted none none;
+  opacity: 25%;
+  width: 85px;
+}
+
+h1{
+  color: #79B4B7;
+}
+
+h3{
+  color: #79B4B7;
+}
+
+.table1{
+  background-color: rgba(157, 157, 157,0.25);
+}
